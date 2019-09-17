@@ -1,0 +1,4 @@
+#ENUNCIADOS DE LAS PRACTICAS
+Act_1:
+
+Act_2: 
