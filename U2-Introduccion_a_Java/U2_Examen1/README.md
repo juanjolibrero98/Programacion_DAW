@@ -8,7 +8,7 @@ que hay entre ellos (dos espacios) no cambia, lo único que varía es la altura.
 
 Ejemplo 1:
 Introduzca la altura de los calcetines: 6
-
+ ´´´´
 ***      ***
 ***      ***
 ***      ***
@@ -24,7 +24,7 @@ Introduzca la altura de los calcetines: 4
 ***      ***
 ******  ******
 ******  ******
-
+´´´´
 Ejercicio 2:
 
 Realizar un programa que dado un número que se solicita la usuario por consola eliminará de ese número de ese número 
