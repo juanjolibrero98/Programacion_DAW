@@ -20,15 +20,15 @@ public class Main {
         todos[4]= m1;
         System.out.println(en1.atacarPersonaje(en2));//no hace daño
 
-        //System.out.println(en1.atacarPersonaje(g1));//ataca *2 por que está encantado el guerrero1
+        System.out.println(en1.atacarPersonaje(g1));//ataca *2 por que está encantado el guerrero1
         System.out.println(g1.toString());//quita 20
 
         System.out.println(g1.atacarPersonaje(g2));//no hace daño
 
-        //System.out.println(g1.atacarPersonaje(en2));//ataca *2 por estar encantado el enano2
+        System.out.println(g1.atacarPersonaje(en2));//ataca *2 por estar encantado el enano2
         System.out.println(en2.toString());//quita 10
 
-       // System.out.println(e1.atacarPersonaje(m1));//ataca quitando 20
+       System.out.println(e1.atacarPersonaje(m1));//ataca quitando 20
         System.out.println(m1.toString());
 
         System.out.println(o1.atacarPersonaje(e2));//el e2 se queda con 130 energia
@@ -54,7 +54,7 @@ public class Main {
         System.out.println(juego1.hayGanador());
 
         System.out.println(juego1.toString());
-       // System.out.println(juego1.borrarMuertos(e2));
+        System.out.println(juego1.borrarMuertos(e2));
     }
 
 }
