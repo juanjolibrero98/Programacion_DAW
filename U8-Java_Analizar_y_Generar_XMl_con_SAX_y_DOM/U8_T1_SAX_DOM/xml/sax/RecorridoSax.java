@@ -1,8 +1,7 @@
-package Librero_Cansino_U8_T1_SAX_DOM_Recorrido.xml.sax;
+package xml.sax;
 
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
-import xml.sax.YeguadaSax;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
