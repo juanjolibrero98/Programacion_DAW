@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<yeguada>
+	<caballo id="1">
+		<nombre>Bucefalo</nombre>
+		<edad>2</edad>
+		<duenyo>Alejandro Magno</duenyo>
+	</caballo>
+
+	<caballo id="2">
+		<nombre>Marengo</nombre>
+		<edad>2</edad>
+		<duenyo>Napoleón Bonaparte</duenyo>
+	</caballo>
+
+	<caballo id="3">
+		<nombre>La yegua Babieca</nombre>
+		<edad>3</edad>
+		<duenyo>El Cid</duenyo>
+	</caballo>
+
+	<caballo id="4">
+		<nombre>Pegasus</nombre>
+		<edad>2</edad>
+		<duenyo>Zeus</duenyo>
+	</caballo>
+
+	<caballo id="5">
+		<nombre>Rocinante</nombre>
+		<edad>4</edad>
+		<duenyo>Don Quijote</duenyo>
+	</caballo>
+</yeguada>
