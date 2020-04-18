@@ -1,14 +1,13 @@
-# U8_T2_Entregable_1920:Modificación_con_DOM_Guardado_a_fichero
-# U8_T2_Modificación con DOM y guardado a fichero
+# U8_T3_Entregable_1920_Uso_de_StaX
+# U8_T3_Entregable_1920_Uso_de_Stax
 
-Utilizando el xml que habéis creado en la práctica U8_T1
+Utilizando el xml que habéis creado en la práctica U8_T1:
 
-Crear una clase ModificarDOM que en el main de esa misma clase, que es el método que se ejecutará, debe:
-Carga el contenido del XML en la estructura DOM.
-Añadir antes de cada nodo hijo de tipo etiqueta  (en el ejemplo los nodos hijos eran <persona>  el siguiente comentario <!-- COMENTARIO AÑADIDO DESDE DOM -->
-Añadir un nueva etiqueta hija (en el ejemplo una nueva persona) como último hijo
-Crear un nuevo nodo etiqueta (en el ejemplo una nueva persona) y reemplazar la primera etiqueta hija por ese nodo creado.
-Volcar todo a un fichero XML llamado dom_modificado.xml
-Crear una clase DomDesdeCero en cuyo main debes:
-Crear un ArrayList con al menos 10 objetos. Dichos objetos deben tener al menos 4 atributos. La clase del Objeto deberá crearse en un fichero aparte.
-Usando DOM volcar el contenido de ese ArrayList al fichero XML cero.xml
+Crear una clase mostrarStax que en el main de esa misma clase, que es el método que se ejecutará, debe:
+Recorrer el fichero XML con Stax
+Mostrar por pantalla el contenido del fichero XML.
+Se valorará que la salida esté lo mejor maquetada posible.
+Crear una clase crearStaxCero en cuyo main debes:
+Crear un ArrayList con al menos 10 objetos. Dicho objetos deben tener al menos 4 atributos. La clase del Objeto deberá crearse en un fichero aparte.
+Usando Stax volcar el contenido de ese ArrayList al fichero XML stax.xml
+Se valorará que el fichero esté lo mejor maquetado posible.
